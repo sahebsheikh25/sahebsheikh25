@@ -255,9 +255,8 @@ root@saheb:~# ./contact --list-all --verbose
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@isaheb360)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahebsheikh567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahebsheikh25)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sahebsheikh25)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/sahebsheikh25)
-[![Phone](https://img.shields.io/badge/Phone-+91_8695428804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918695428804)
+
+
 
 </div>
 
