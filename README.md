@@ -255,9 +255,7 @@ root@saheb:~# ./contact --list-all --verbose
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@isaheb360)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahebsheikh567@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahebsheikh25)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sahebsheikh25)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/sahebsheikh25)
-[![Phone](https://img.shields.io/badge/Phone-+91_8695428804-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918695428804)
+
 
 </div>
 
@@ -265,7 +263,7 @@ root@saheb:~# ./contact --list-all --verbose
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🔐+snsecurity.in+%7C+💼+isaheb.vercel.app;CEH+%7C+CNSP+%7C+DCJSP+%7C+CCEP+Certified;Ethical+Hacking+Only+%7C+All+Activity+Is+Authorized;Breaking+Things+to+Make+Them+Stronger+⚡;Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Open+to+Remote+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🔐+snsecurity.in+%7C+💼+isaheb.vercel.app;CEH+%7C+CNSP+%7C+DCJSP+%7C+CCEP+Certified;Ethical+Hacking+Only+%7C+All+Activity+Is+Authorized;Breaking+Things+to+Make+Them+Stronger+⚡;India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Open+to+Remote+Opportunities" />
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
